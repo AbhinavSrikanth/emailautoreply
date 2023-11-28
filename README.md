@@ -9,9 +9,6 @@ Automatically replies to unread emails with a vacation message on Gmail.
 - [Getting Started](#getting-started)
 - [Dependencies](#dependencies)
 - [Usage](#usage)
-- [Configuration](#configuration)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -58,14 +55,16 @@ The following npm packages are used in this project:
 Install these dependencies using:
 
 ```bash
-npm install express @google-cloud/local-auth fs.promises googleapis
 
-Use `npm start`/`node --no-deprecation src/app.js` to start the server.
+- npm install express @google-cloud/local-auth fs.promises googleapis
 
-Name: Abhinav Srikanth
-Reg No: RA2011003020345
-College: SRM Institute of Science and Technology, Ramapuram
-Sem: VII
-Year: IV
-Email: abhinavsrikanth01@gmail.com/as5441@srmist.edu.in
-Contact Number/Whatsapp: +91 6382637353
+- Use `npm start`/`node --no-deprecation src/app.js` to start the server.
+
+Contact Information:
+- Name: Abhinav Srikanth
+- Reg No: RA2011003020345
+- College: SRM Institute of Science and Technology, Ramapuram
+- Sem: VII
+- Year: IV
+- Email: abhinavsrikanth01@gmail.com/as5441@srmist.edu.in
+- Contact Number/Whatsapp: +91 6382637353
