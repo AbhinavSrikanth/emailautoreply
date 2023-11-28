@@ -8,7 +8,7 @@ Automatically replies to unread emails with a vacation message on Gmail.
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Dependencies](#dependencies)
-- [Usage](#usage)
+
 
 ## Introduction
 
@@ -43,7 +43,7 @@ To get started with the Gmail Auto-Replier, follow these steps:
     - Download the JSON file and save it in the `credentials` directory.
     - Update the keyfilePath in `app.js` with the path to your credentials JSON file.
 
-## Dependencies
+4. Dependencies
 
 The following npm packages are used in this project:
 
