@@ -43,7 +43,7 @@ To get started with the Gmail Auto-Replier, follow these steps:
     - Download the JSON file and save it in the `credentials` directory.
     - Update the keyfilePath in `app.js` with the path to your credentials JSON file.
 
-4. Dependencies
+## Dependencies
 
 The following npm packages are used in this project:
 
@@ -59,12 +59,3 @@ Install these dependencies using:
 - npm install express @google-cloud/local-auth fs.promises googleapis
 
 - Use `npm start`/`node --no-deprecation src/app.js` to start the server.
-
-Contact Information:
-- Name: Abhinav Srikanth
-- Reg No: RA2011003020345
-- College: SRM Institute of Science and Technology, Ramapuram
-- Sem: VII
-- Year: IV
-- Email: abhinavsrikanth01@gmail.com/as5441@srmist.edu.in
-- Contact Number/Whatsapp: +91 6382637353
